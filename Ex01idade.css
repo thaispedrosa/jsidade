@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(24, 126, 121);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    border: 2px dotted yellow;
+}
+
+section {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.719);
+}
+
+p {
+    color: rgb(22, 8, 8);
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+#res {
+    text-align: center;
+}
+
+
